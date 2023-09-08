@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Mehta</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh027&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh027" /> </p>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Kamlesh027/Kamlesh027/assets/125842881/6aca0585-ddc3-4ed9-bc73-eadf8805774d)
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Kamlesh027/Kamlesh027/assets/125842881/81271ac1-287e-4bbf-88eb-f3054fb6c3c8)
 ">
 
 <p align="left"> <a href="https://twitter.com/kamlesh69" target="blank"><img src="https://img.shields.io/twitter/follow/kamlesh69?logo=twitter&style=for-the-badge" alt="kamlesh69" /></a> </p>
